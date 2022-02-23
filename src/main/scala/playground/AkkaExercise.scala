@@ -1,7 +1,6 @@
 package playground
 
 import akka.actor.{Actor, ActorRef, ActorSystem, Props}
-import playground.AkkaExercise.Mom.{CHOCOLATE, Food, VEGETABLES}
 
 object AkkaExercise extends App{
 
